@@ -15,7 +15,7 @@ When configuring your conversion options on the site, ensure you use the followi
 * **Uncompressed**
 * **Bottom-Up orientation**
 
-## Build instruction in terminal
+## How to build
 ### Terminal
 You can compile the project using any standard C++ compiler (such as `g++` or `clang++`).
 Make sure your terminal session is currently running inside the main `ascii-art` project root folder so the relative file path for `media/input.bmp` resolves correctly.
